@@ -22,3 +22,5 @@ Focus mode extension.
 - Optimizar la extensión.
 - Activación por sitios.
 - Refactorizar y embellecer el código.
+- Que el css no tenga conflicto alguno al activar y desactivar el modo de la extensión.
+- Mejorar el manifest y cambiar iconos.
