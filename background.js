@@ -13,9 +13,9 @@ chrome.runtime.onInstalled.addListener(async () => {
 	});
 });
 
-chrome.tabs.onActivated.addListener(async (tab) => {
+chrome.tabs.onActivated.addListener(async (tab, tabId) => {
 	const status = await getStatus();
-
+	console.log("tabId: ", tabId);
 	console.log("cambiando pestaña...", status);
 	console.log("tab status: ", tab);
 	switch (status) {

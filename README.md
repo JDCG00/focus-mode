@@ -20,8 +20,9 @@ Focus mode extension.
 
 - Mejorar este README.
 - Optimizar la extensión.
-- Activación por sitios.
+- Activación por sitios. (De momento hecho, pero se puede mirar para hacerlo de otra manera y no con el manifest.)
 - Refactorizar y embellecer el código.
 - Que el css no tenga conflicto alguno al activar y desactivar el modo de la extensión.
 - Mejorar el manifest y cambiar iconos.
 - Controlar que no se creen tantos divs a la hora de cambiar de pestañas.
+- Silenciar pestaña o quitar sonido.

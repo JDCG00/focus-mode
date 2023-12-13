@@ -19,7 +19,8 @@
                 "404/404.css"
             ],
             "matches": [
-                "<all_urls>"
+                "https://www.twitch.tv/*",
+                "https://www.youtube.com/*"
             ]
         }
     ],
@@ -37,7 +38,8 @@
         "tabs"
     ],
     "host_permissions": [
-        "<all_urls>"
+        "https://www.twitch.tv/*",
+        "https://www.youtube.com/*"
     ],
     "commands": {
         "_execute_action": {
