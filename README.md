@@ -24,5 +24,5 @@ Focus mode extension.
 - Refactorizar y embellecer el código.
 - Que el css no tenga conflicto alguno al activar y desactivar el modo de la extensión.
 - Mejorar el manifest y cambiar iconos.
-- Controlar que no se creen tantos divs a la hora de cambiar de pestañas.
+- Controlar que no se creen tantos divs a la hora de cambiar de pestañas. ✅
 - Silenciar pestaña o quitar sonido.

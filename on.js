@@ -1,7 +1,7 @@
 console.log("on.js loaded");
 
 // Create a div element if doesn't exist
-if (!document.getElementById("focus-mode")) {
+if (!document.getElementById("html-404")) {
 	var url = chrome.runtime.getURL("404/404.html");
 
 	fetch(url)
